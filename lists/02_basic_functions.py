@@ -19,4 +19,13 @@ mylist.reverse()
 print(mylist)
 
 #Funzione per restituire ed eliminare l'ultimo elemento della lista
-mylint.pop()
+print("\nEsempio 4:")
+print(mylist.pop()) #1
+print(mylist) #'ciao', 'c', 'b', 'a', 4, 7, 5, 3, 2
+
+#Aggiunge in coda
+print("\nEsempio 5:")
+mylist.append(0)
+mylist.extend([1,9])
+mylist = mylist + ['prova']
+print(mylist) #'ciao', 'c', 'b', 'a', 4, 7, 5, 3, 2, 0, 1, 9, 'prova'
