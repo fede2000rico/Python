@@ -19,3 +19,4 @@ mylist.reverse()
 print(mylist)
 
 #Funzione per restituire ed eliminare l'ultimo elemento della lista
+mylint.pop()
