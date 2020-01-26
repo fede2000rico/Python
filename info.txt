@@ -1,1 +1,2 @@
 Per cercare funzioni specifiche usare "Cerca nel progetto"
+edit
