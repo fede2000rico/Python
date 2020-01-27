@@ -11,3 +11,7 @@ print(hex(15))
 #Ottale
 print("\nOttale:")
 print(oct(15))
+
+#Valore assoluto
+print("\nValore assoluto:")
+print(abs(-5)) #5
