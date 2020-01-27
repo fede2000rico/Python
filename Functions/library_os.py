@@ -3,5 +3,3 @@ import os
 
 #Informazioni generali
 print(os.environ['USERNAME']) #fede2
-
-print(os.environ['SHELL']) #fede2
