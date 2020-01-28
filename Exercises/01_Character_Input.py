@@ -4,7 +4,7 @@ Print out a message addressed to them that tells them the year that they will tu
 '''
 
 from datetime import datetime
-print("Inserisci la tua data di nascita:\n")
+print("Inserisci la tua data di nascita:")
 
 age=input() #Legge da tastiera
 
