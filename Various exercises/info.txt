@@ -1,0 +1,6 @@
+
+La fonte dei testi degli esercizi è il seguente sito web:
+
+https://www.practicepython.org/
+
+La numerazione degli esercizi seguirà questo ordine
