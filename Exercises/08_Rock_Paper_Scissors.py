@@ -19,3 +19,5 @@ while(newgame):
 
     print("Player2 choose R-P-S:") #Scelta giocatore 2
     choice2=input() #Lettura tastiera
+
+#ESEMPIO
