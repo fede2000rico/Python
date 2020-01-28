@@ -11,7 +11,7 @@ Remember the rules:
 
 newgame=1 #Variabile per continuare il gioco
 
-dictionary={R:1,P:2,S:3} #Dizionario per convertire le scelte
+dictionary={R:1,S:2,P:3} #Dizionario per convertire le scelte
 
 while(newgame):
     print("Player1 choose R-P-S:") #Scelta giocatore 1
