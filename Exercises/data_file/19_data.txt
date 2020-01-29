@@ -1,0 +1,92 @@
+
+
+Follow @practice_python
+Home
+Why Practice Python?
+Why Chilis?
+Resources for learners
+Exercises
+Blog
+About
+Feedly
+Twitter
+your favorite RSS reader
+more about Practice Python
+Exercise 1
+Latest exercise
+Latest solution
+Latest blog post
+ Character Input
+ Odd Or Even
+ List Less Than Ten
+ Divisors
+ List Overlap
+ String Lists
+ List Comprehensions
+ Rock Paper Scissors
+ Guessing Game One
+ List Overlap Comprehensions
+ Check Primality Functions
+ List Ends
+ Fibonacci
+ List Remove Duplicates
+ Reverse Word Order
+ Password Generator
+ Decode A Web Page
+ Cows And Bulls
+ Decode A Web Page Two
+ Element Search
+ Write To A File
+ Read From File
+ File Overlap
+ Draw A Game Board
+ Guessing Game Two
+ Check Tic Tac Toe
+ Tic Tac Toe Draw
+ Max Of Three
+ Tic Tac Toe Game
+ Pick Word
+ Guess Letters
+ Hangman
+ Birthday Dictionaries
+ Birthday Json
+ Birthday Months
+ Birthday Plots
+ Character Input Solutions
+ Odd Or Even Solutions
+ List Less Than Ten Solutions
+ Divisors Solutions
+ List Overlap Solutions
+ String Lists Solutions
+ List Comprehensions Solutions
+ Rock Paper Scissors Solutions
+ Guessing Game One Solutions
+ List Overlap Comprehensions Solutions
+ Check Primality Functions Solutions
+ List Ends Solutions
+ Fibonacci Solutions
+ List Remove Duplicates Solutions
+ Reverse Word Order Solutions
+ Password Generator Solutions
+ Decode A Web Page Solutions
+ Cows And Bulls Solutions
+ Decode A Web Page Two Solutions
+ Element Search Solutions
+ Write To A File Solutions
+ Read From File Solutions
+ File Overlap Solutions
+ Draw A Game Board Solutions
+ Guessing Game Two Solutions
+ Check Tic Tac Toe Solutions
+ Tic Tac Toe Draw Solutions
+ Max Of Three Solutions
+ Tic Tac Toe Game Solutions
+ Pick Word Solutions
+ Guess Letters Solutions
+ Hangman Solutions
+ Birthday Dictionaries Solutions
+ Birthday Json Solutions
+ Birthday Months Solutions
+
+
+Advertising disclosure
