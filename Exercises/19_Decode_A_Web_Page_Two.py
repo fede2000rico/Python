@@ -21,7 +21,7 @@ base_url = "https://www.practicepython.org/"
 #"CHIEDO" UNA COPIA DELL'HTML
 r = requests.get(base_url)
 
-#Creo una soup
+#Creo una soupExercises\19_Decode_A_Web_Page_Two.py
 soup = BeautifulSoup(r.text, "html.parser")
 
 #Seleziono il blocco dell'html
